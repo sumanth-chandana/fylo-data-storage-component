@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sumanth-chandana/fylo-data-storage-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [click here](https://github.com/sumanth-chandana/fylo-data-storage-component.git)
+- Live Site URL: [click here](https://your-live-site-url.com)
 
 ## My process
 
